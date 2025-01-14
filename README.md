@@ -67,4 +67,7 @@
 <br clear="both">
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/I_am_Nanak" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Nanak Gupta" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<a target="_blank" href="https://www.linkedin.com/in/Nanak Gupta" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a href="mailto:iamnanak01@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" alt="Youtube Badge">
+</a></p>
