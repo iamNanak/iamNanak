@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="center">🛜 Currently learning NEXTJS<br>👨🏼‍🎓Pursuing a B.Tech in Information Technology, currently in the 3rd year.<br>👨🏼‍💻 Working as a Web Developer since 2023<br>🤖 Coding and Web Designing enthusiast looking for an opportunity to show my skills.<br>📈My moto is to learn from any situation, grow as an individual and always help others.</p>
+<p align="center">🛜 Currently learning NEXTJS<br>👨🏼‍💻 Working as a Web Developer since 2023<br>👨🏼‍🎓Pursuing a B.Tech in Information Technology, currently in the 3rd year.<br>🤖 Coding and Web Designing enthusiast looking for an opportunity to show my skills.<br>📈My moto is to learn from any situation, grow as an individual and always help others.</p>
 
 ###
 
