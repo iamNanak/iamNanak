@@ -1,75 +1,65 @@
-  <div align="center">
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
-</div>
-
-<h1>Hi 👋, I'm Nanak</h1>
-<p>A passionate Full Stack developer proficient In MERN Stack from India.</p>
-
-<br clear="both">
-
-<p align="center">🛜 Currently learning NEXTJS<br>👨🏼‍💻 Working as a Web Developer since 2023<br>👨🏼‍🎓Pursuing a B.Tech in Information Technology, currently in the 3rd year.<br>🤖 Coding and Web Designing enthusiast looking for an opportunity to show my skills.<br>📈My moto is to learn from any situation, grow as an individual and always help others.</p>
-
-###
-
-<br clear="both">
-<h2>🚀 Languages and Tools I Use</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
+# Hi, I'm Nanak 👋
+
+**Software Engineer · Go & TypeScript · Backend and real-time systems**
+
+📍 Delhi, India · 🎓 B.Tech IT, Noida Institute of Engineering and Technology (2022–2026)
+
+[![Portfolio](https://img.shields.io/badge/iamnanak.me-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iamnanak.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nanak-gupta)
+[![X](https://img.shields.io/badge/@I__am__Nanak-0f1419?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/I_am_Nanak)
+[![Email](https://img.shields.io/badge/iamnanak01@gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:iamnanak01@gmail.com)
+
 </div>
-<br clear="both">
-<br clear="both">
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamNanak&show_icons=true&locale=en" alt="iamNanak" /></p> -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamNanak&" alt="iamNanak" /></p> -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamNanak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=iamNanak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-<br clear="both">
+
+---
+
+### 🧑‍💻 About me
+
+- 🔭 Currently building an **AI sales-outreach (AI SDR) platform**: Go microservices, Python agents and a Next.js app, with Postgres, Redis and Temporal underneath.
+- 🎓 Graduated in 2026 with a B.Tech in Information Technology.
+- ⚙️ I build backend services in **Go** and product apps in **TypeScript / Next.js**.
+- 🔁 I like real-time and distributed problems: WebSockets, CRDTs, pub/sub, queues and workers.
+- 🌱 Right now I'm going deeper into system design, Postgres and running services in production.
+- 🧩 250+ problems solved on LeetCode and GeeksforGeeks.
+- 🤝 Open to interesting backend and full-stack work — say hi by email.
+
+### 💼 Experience
+
+**Josh Technology Group** — Associate Software Developer Intern · *Aug 2025 – Present · Onsite*
+- Frontend on a large-scale LMS / ERP platform with React, Redux Toolkit and REST APIs.
+- Built reusable UI components and sped up pages with lazy loading, code splitting, caching and debounced / throttled API calls.
+
+**Zidio Development** — Software Developer Intern · *Jan 2025 – Mar 2025 · Remote*
+- Built a full-stack MERN task manager: Google OAuth + JWT sessions, Cloudinary uploads, Redux state and Mongoose schemas.
+
+**Noida Institute of Engineering and Technology** — AR/VR Technology Intern · *May 2024 – Jun 2024*
+- Built a marker-based AR ID card and a face-filter app with Unity, Vuforia, OpenCV and Spark AR.
+
+### 🚀 Featured projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**SyncDocs**](https://github.com/iamNanak/SyncDocs) · [live](https://sync-docs-rose.vercel.app) | Real-time collaborative document editor: conflict-free editing with Yjs CRDTs, Redis pub/sub fan-out, role-based sharing | Go · Next.js · Redis · PostgreSQL · WebSockets |
+| [**WebDock**](https://github.com/iamNanak/WebDock) | A Vercel-style deploy platform: builds a repo in a container on ECS Fargate, uploads it to S3, streams build logs live and serves it through a reverse proxy | Node.js · Docker · AWS (ECS, ECR, S3) · Redis |
+| [**EchoCast**](https://github.com/iamNanak/EchoCast) | Go live from the browser: streams the camera over Socket.IO to FFmpeg, which pushes it to YouTube over RTMP | Node.js · Socket.IO · FFmpeg · Docker |
+| [**CineGenie**](https://github.com/iamNanak/CineGenie) | Movie streaming API with JWT auth, protected routes and user / movie models | Go |
+| [**ChimpMail**](https://github.com/iamNanak/ChimpMail) | Bulk email sender: a Go producer / consumer that renders HTML templates and sends over SMTP, with a Next.js dashboard | Go · Next.js · SMTP |
+| [**Whisper Chat**](https://github.com/iamNanak/Whisper-Chat-App) · [live](https://whisper-chat-app-beta.vercel.app) | Real-time chat with JWT auth, direct messages and file uploads | React · Express · MongoDB · Socket.IO |
+
+### 🛠️ Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python&theme=dark" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind&theme=dark" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,aws,git,linux&theme=dark" alt="Data and infra" />
+</p>
+
+### 📈 Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamNanak/iamNanak/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamNanak/iamNanak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iamNanak/iamNanak/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/iamNanak/iamNanak/output/github-snake.svg" />
 </picture>
-<br clear="both">
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/I_am_Nanak" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Nanak Gupta" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a href="mailto:iamnanak01@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" alt="Youtube Badge">
-</a></p>
